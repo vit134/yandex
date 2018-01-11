@@ -26,6 +26,3 @@ npm run dev
 npm run reset-db
 ```
 
-тест ветки
-```
-
